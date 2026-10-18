@@ -1,0 +1,8 @@
+youtube-transcript-api
+langchain-community
+faiss-cpu
+python-dotenv
+langchain
+langchain-ollama
+langchain_text_splitters
+langchain_core
