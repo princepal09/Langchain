@@ -4,6 +4,10 @@ env/
 venv/
 ENV/
 
+docs
+
+
+
 # --- Bytecode / Python Caching ---
 __pycache__/
 *.py[cod]

@@ -1,0 +1,51 @@
+Product_ID,Product_Name,Category,Unit_Price_USD,Quantity_Sold,Total_Revenue,Customer_Rating,In_Stock
+PRD-1001,TypeScript Handbook,Development Tools,1426.81,11,15694.91,4.7,True
+PRD-1002,Webcam 4K,Accessories,163.46,11,1798.06,4.8,True
+PRD-1003,LED Desk Lamp,Office Supplies,45.57,2,91.14,4.6,False
+PRD-1004,Noise-Canceling Headphones,Accessories,1488.43,1,1488.43,4.0,True
+PRD-1005,Ergonomic Chair,Office Supplies,447.48,10,4474.8,3.6,False
+PRD-1006,Redis Cloud Subscription,Development Tools,149.55,19,2841.45,4.1,False
+PRD-1007,Mechanical Keyboard,Electronics,1292.01,7,9044.07,3.8,True
+PRD-1008,Ergonomic Chair,Office Supplies,1448.96,18,26081.28,4.1,True
+PRD-1009,Noise-Canceling Headphones,Accessories,372.92,7,2610.44,4.4,True
+PRD-1010,Redis Cloud Subscription,Development Tools,595.73,18,10723.14,4.5,True
+PRD-1011,Laptop Stand,Accessories,826.86,18,14883.48,4.7,False
+PRD-1012,Noise-Canceling Headphones,Accessories,902.88,16,14446.08,4.0,True
+PRD-1013,Ergonomic Chair,Office Supplies,1442.34,16,23077.44,4.6,True
+PRD-1014,Standing Desk,Office Supplies,1448.4,13,18829.2,3.7,True
+PRD-1015,MacBook Air,Electronics,1480.53,1,1480.53,3.8,True
+PRD-1016,PostgreSQL Hosting,Development Tools,1064.68,3,3194.04,4.7,True
+PRD-1017,Webcam 4K,Accessories,981.85,7,6872.95,4.8,True
+PRD-1018,Wireless Mouse,Electronics,565.67,5,2828.35,4.6,True
+PRD-1019,PostgreSQL Hosting,Development Tools,716.24,5,3581.2,5.0,True
+PRD-1020,Dell UltraSharp Monitor,Electronics,365.44,14,5116.16,4.2,True
+PRD-1021,Redis Cloud Subscription,Development Tools,52.75,13,685.75,3.8,False
+PRD-1022,Wireless Mouse,Electronics,851.46,4,3405.84,4.9,True
+PRD-1023,Mechanical Keyboard,Electronics,1136.99,4,4547.96,4.9,True
+PRD-1024,Redis Cloud Subscription,Development Tools,1322.49,10,13224.9,4.7,True
+PRD-1025,Noise-Canceling Headphones,Accessories,1208.45,12,14501.4,4.1,False
+PRD-1026,Standing Desk,Office Supplies,196.3,7,1374.1,4.9,True
+PRD-1027,Redis Cloud Subscription,Development Tools,15.77,13,205.01,4.8,True
+PRD-1028,LED Desk Lamp,Office Supplies,634.86,5,3174.3,4.5,True
+PRD-1029,LED Desk Lamp,Office Supplies,264.91,9,2384.19,4.1,True
+PRD-1030,Noise-Canceling Headphones,Accessories,381.61,7,2671.27,4.2,True
+PRD-1031,Wireless Mouse,Electronics,69.78,17,1186.26,5.0,True
+PRD-1032,Docker Enterprise License,Development Tools,527.43,1,527.43,3.9,True
+PRD-1033,Standing Desk,Office Supplies,1478.69,4,5914.76,3.6,True
+PRD-1034,Mechanical Keyboard,Electronics,1207.66,5,6038.3,4.4,True
+PRD-1035,PostgreSQL Hosting,Development Tools,149.08,1,149.08,3.7,True
+PRD-1036,Ergonomic Chair,Office Supplies,1289.66,4,5158.64,3.5,True
+PRD-1037,TypeScript Handbook,Development Tools,973.08,9,8757.72,4.5,True
+PRD-1038,Noise-Canceling Headphones,Accessories,219.22,18,3945.96,4.9,False
+PRD-1039,PostgreSQL Hosting,Development Tools,995.08,16,15921.28,4.3,True
+PRD-1040,USB-C Hub,Accessories,153.26,12,1839.12,4.3,False
+PRD-1041,Docker Enterprise License,Development Tools,429.12,19,8153.28,4.6,False
+PRD-1042,Standing Desk,Office Supplies,1173.12,11,12904.32,4.9,True
+PRD-1043,Notebook,Office Supplies,877.32,16,14037.12,3.7,True
+PRD-1044,Dell UltraSharp Monitor,Electronics,253.8,18,4568.4,4.2,True
+PRD-1045,MacBook Air,Electronics,276.25,4,1105.0,3.9,True
+PRD-1046,Notebook,Office Supplies,979.7,7,6857.9,4.6,True
+PRD-1047,Notebook,Office Supplies,770.59,14,10788.26,4.4,False
+PRD-1048,Redis Cloud Subscription,Development Tools,1360.56,2,2721.12,4.0,True
+PRD-1049,TypeScript Handbook,Development Tools,1298.29,16,20772.64,3.9,True
+PRD-1050,Wireless Mouse,Electronics,278.01,14,3892.14,4.9,True
